@@ -82,10 +82,9 @@ nav a{
 .partners{
     margin: 70px auto;
     padding: 2rem ;
-    /* border: 5px solid;
-    border-image: linear-gradient(to right, darkblue, darkorchid) 1; */
+    border: 2px solid;
+    border-image: linear-gradient(90deg,rgba(192, 204, 218, 0.1), rgba(192, 204, 218, 0.6), rgba(192, 204, 218, 0.1)) 1;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.partners a
